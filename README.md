@@ -1,6 +1,6 @@
 # Upwork Export MD
 
-A Greasemonkey/Violentmonkey userscript that extracts Upwork job details and exports them as structured Markdown — ready to feed into Claude, ChatGPT, or any LLM for job evaluation and proposal drafting.
+A userscript that extracts Upwork job details and exports them as structured Markdown — so you can actually read them somewhere else.
 
 ## Why
 
